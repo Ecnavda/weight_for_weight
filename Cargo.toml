@@ -1,0 +1,6 @@
+[package]
+name = "weight_for_weight"
+version = "0.1.0"
+authors = ["samus"]
+
+[dependencies]
